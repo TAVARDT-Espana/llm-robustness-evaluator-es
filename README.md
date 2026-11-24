@@ -1,4 +1,3 @@
-
 # Evaluador de Robustez de LLM & Probador de Guardrails
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-00ff88?style=flat-square&logo=github)](https://tavardt-espana.github.io/llm-robustness-evaluator-es/)
@@ -74,6 +73,11 @@ El blueprint defensivo incluye:
 
 ***
 
+## Enlaces Útiles
+
+* **Portal Corporativo:** https://ag.tavardt.com/es/
+* **Suite de Diagnósticos:** https://tools.tavardt.com/es/
+* **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
 
 ***
 
